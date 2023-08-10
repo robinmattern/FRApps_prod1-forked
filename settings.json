@@ -1,0 +1,12 @@
+{
+    "docsify.port" : 55000
+
+  , "liveServer.settings.port": 5500
+  , "liveServer.settings.NoBrowser": false    
+  , "liveServer.settings.CustomBrowser": "chrome"
+  
+  , "typescript.validate.enable": false
+  
+  , "files.associations": { "*.njs": "javascript" }
+
+  }
